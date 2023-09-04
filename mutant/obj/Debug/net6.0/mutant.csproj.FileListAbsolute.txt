@@ -1,0 +1,15 @@
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\mutant.csproj.AssemblyReference.cache
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\mutant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\mutant.AssemblyInfoInputs.cache
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\mutant.AssemblyInfo.cs
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\mutant.csproj.CoreCompileInputs.cache
+C:\Programmering\Mutant\mutant\bin\Debug\net6.0\mutant.exe
+C:\Programmering\Mutant\mutant\bin\Debug\net6.0\mutant.deps.json
+C:\Programmering\Mutant\mutant\bin\Debug\net6.0\mutant.runtimeconfig.json
+C:\Programmering\Mutant\mutant\bin\Debug\net6.0\mutant.dll
+C:\Programmering\Mutant\mutant\bin\Debug\net6.0\mutant.pdb
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\mutant.dll
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\refint\mutant.dll
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\mutant.pdb
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\mutant.genruntimeconfig.cache
+C:\Programmering\Mutant\mutant\obj\Debug\net6.0\ref\mutant.dll
